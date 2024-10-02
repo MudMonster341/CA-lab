@@ -1,0 +1,5 @@
+Questions
+
+1. Find largest and smallest element of a word array A which has 10 elements.
+
+2. Sum the elements of a word array A having 5 elements and display the result to the user.
