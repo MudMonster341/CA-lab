@@ -1,3 +1,8 @@
+# Question
+# Take user input value for x and have a user defined array of length 4 . Then find out the value of the equation
+# Evaluate : A[0]x^3  + A[1]x^2 + A[2]x^ + A[3]
+
+
 .data
 msga: .asciiz "the sum is:"
 msgb: .asciiz "enter the value of x:"
