@@ -1,6 +1,6 @@
-#Question
-#Take two arrays of len 3 each , multiply each corresponding to the position and add all the multiplied values
-#Ex : as seen below 
+# Question
+# Take two arrays of len 3 each , multiply each corresponding to the position and add all the multiplied values
+# Ex : as seen below 
 # (1*4)+(2*5)+(3*6) = 32 (final answer)
 
 
